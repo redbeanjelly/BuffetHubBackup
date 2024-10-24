@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.EntityNotFoundException"/>
+    <fullyQualifiedTypeName name="com.hub.util.JWTUtil"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.prepost.PreAuthorize"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="lombok.extern.log4j.Log4j2"/>
+    <fullyQualifiedTypeName name="com.hub.service.ReserveService"/>
+</qualifiedTypeNameHistroy>
